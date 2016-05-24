@@ -1,16 +1,37 @@
 /* Entire Chart */
 #chart {
-    position: absolute;
+    position: relative;
 }
 
 /* Label Area */
+#labelAxis {
+    position: absolute;
+    left: 100px;
+}
+
 .dividerBar {
     position: absolute;
-    height: 50px;
+    top: -2px;
     width: 2px;
     background-color: black;
+}
+
+#labelContain {
+    position: absolute;
+    right: 60px;
+}
+.posContainer {
+    position: absolute;
+}
+.dataLabel {
+    position: absolute;
 }
 
 /* Bar Area */
 
 /* Menu Area */
+
+.test {
+    position: absolute;
+    top: 200px;
+}
