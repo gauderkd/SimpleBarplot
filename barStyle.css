@@ -1,0 +1,16 @@
+/* Entire Chart */
+#chart {
+    position: absolute;
+}
+
+/* Label Area */
+.dividerBar {
+    position: absolute;
+    height: 50px;
+    width: 2px;
+    background-color: black;
+}
+
+/* Bar Area */
+
+/* Menu Area */
